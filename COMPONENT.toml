@@ -3,7 +3,7 @@ name = "SigmaOS-dhcp-relay"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "dhcp-relay component"
+description = "DHCP Relay"
 upstream = []
 
 [contract]
